@@ -1,0 +1,15 @@
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\bin\Debug\net6.0\JogandoCartasFora.exe
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\bin\Debug\net6.0\JogandoCartasFora.deps.json
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\bin\Debug\net6.0\JogandoCartasFora.runtimeconfig.json
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\bin\Debug\net6.0\JogandoCartasFora.dll
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\bin\Debug\net6.0\JogandoCartasFora.pdb
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\obj\Debug\net6.0\JogandoCartasFora.csproj.AssemblyReference.cache
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\obj\Debug\net6.0\JogandoCartasFora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\obj\Debug\net6.0\JogandoCartasFora.AssemblyInfoInputs.cache
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\obj\Debug\net6.0\JogandoCartasFora.AssemblyInfo.cs
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\obj\Debug\net6.0\JogandoCartasFora.csproj.CoreCompileInputs.cache
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\obj\Debug\net6.0\JogandoCartasFora.dll
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\obj\Debug\net6.0\refint\JogandoCartasFora.dll
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\obj\Debug\net6.0\JogandoCartasFora.pdb
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\obj\Debug\net6.0\JogandoCartasFora.genruntimeconfig.cache
+C:\Users\desenvolvimento101\OneDrive - Fatec Centro Paula Souza\FATEC\Maratona Interfatecs 2023\Problemas\JogandoCartasFora\JogandoCartasFora\obj\Debug\net6.0\ref\JogandoCartasFora.dll
